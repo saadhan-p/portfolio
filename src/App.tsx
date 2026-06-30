@@ -886,7 +886,7 @@ export default function App() {
                     <span className="w-2 h-2 bg-primary-container animate-pulse rounded-full"></span>
                     DIRECTORY: ROOT / PROJECTS / REPOSITORY
                   </div>
-                  <h1 className="font-sans text-5xl md:text-7xl font-black uppercase tracking-tighter leading-none">
+                  <h1 className="font-sans text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tighter leading-none">
                     PROJECT_REPOSITORY
                   </h1>
                   <p className="font-sans text-lg text-on-surface-variant max-w-2xl leading-relaxed uppercase">
