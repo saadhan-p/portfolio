@@ -722,7 +722,7 @@ export default function App() {
                       <h3 className="font-sans text-3xl md:text-4xl font-extrabold text-on-background mb-8 uppercase tracking-tight">SECURE_BY_DESIGN</h3>
                       <div className="space-y-6 text-on-surface-variant font-sans text-base leading-relaxed max-w-2xl">
                         <p className="uppercase">
-                          I am currently pursuing an MCA in Cybersecurity at Amrita Vishwa Vidyapeetham, with a strong foundation in building secure and scalable full-stack applications.
+                          I am completing an MCA in Cybersecurity at Amrita Vishwa Vidyapeetham, with a strong foundation in building secure and scalable full-stack applications.
                         </p>
                         <p className="uppercase">
                           My current research focuses on Quantum Key Distribution (QKD) and its application in securing "dark" cloud environments against next-generation cryptographic threats.
@@ -820,7 +820,7 @@ export default function App() {
                       </div>
                       <h4 className="font-sans text-xl font-extrabold text-on-background mb-2 leading-tight uppercase">Amrita Vishwa Vidyapeetham</h4>
                       <p className="font-mono text-xs font-bold text-primary-container mb-4">MCA in Cybersecurity</p>
-                      <p className="text-on-surface-variant font-mono text-xs uppercase">CGPA: 8.87 / 10</p>
+                      <p className="text-on-surface-variant font-mono text-xs uppercase">CGPA: 8.2 / 10</p>
                     </div>
 
                     {/* Education 2 */}
@@ -830,7 +830,7 @@ export default function App() {
                       </div>
                       <h4 className="font-sans text-xl font-extrabold text-on-background mb-2 leading-tight uppercase">University of Mysore</h4>
                       <p className="font-mono text-xs font-bold text-primary-container mb-4">BCA</p>
-                      <p className="text-on-surface-variant font-mono text-xs uppercase">CGPA: 8.12 / 10</p>
+                      <p className="text-on-surface-variant font-mono text-xs uppercase">CGPA: 6.93 / 10</p>
                     </div>
 
                     {/* Certifications Row */}
